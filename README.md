@@ -1,3 +1,5 @@
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
